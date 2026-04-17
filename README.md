@@ -1,6 +1,6 @@
 # String Algorithms Blog
 
-Welcome to the String Algorithms Blog! This repository contains a comprehensive guide to string algorithms, data structures, and their applications.
+Welcome to the String Algorithms Blog! This repository contains introduction and guide to string algorithms, data structures, and their applications.
 
 ## 📖 What's Inside
 
@@ -11,9 +11,7 @@ Welcome to the String Algorithms Blog! This repository contains a comprehensive 
 
 ## 🌐 View Online
 
-This blog is published as a GitHub Page. Visit the live site to read the posts:
-
-[String Algorithms Blog](https://learnrahulrai-ui.github.io/string_algorithms/)
+This blog will be published as a GitHub Page after enabling GitHub Pages in repository settings. URL will be: https://learnrahulrai-ui.github.io/string_algorithms/
 
 ## 📁 Project Structure
 

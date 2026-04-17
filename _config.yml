@@ -1,0 +1,29 @@
+# GitHub Pages Jekyll Configuration
+# This file configures how your GitHub Pages site is built
+
+# Site settings
+title: String Algorithms Blog
+description: A comprehensive guide to string algorithms and data structures
+baseurl: /string_algorithms
+url: https://learnrahulrai-ui.github.io
+
+# Build settings
+markdown: kramdown
+theme: jekyll-default
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Exclude files from build
+exclude:
+  - .git
+  - .gitignore
+  - .github
+  - node_modules
+  - vendor
